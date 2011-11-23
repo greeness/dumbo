@@ -1,0 +1,11 @@
+youtube	1	5
+youtube	1	10
+vimeo	2	4
+vimeo	3	1
+vimeo	3	50
+vimeo	4	1
+vimeo	5	5
+youtube	6	24
+youtube	6	89
+youtube	7	11
+youtube	8	100
